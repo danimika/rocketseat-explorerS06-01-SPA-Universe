@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "name": "universe",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "type":"module",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
